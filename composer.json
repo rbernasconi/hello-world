@@ -1,6 +1,6 @@
 {
     "name": "rbernasconi/hello-world",
     "require": {
-        "acme/hello-world": "dev-master"
+        "monolog/monolog": "dev-master"
     }
 }
