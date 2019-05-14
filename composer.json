@@ -1,6 +1,3 @@
 {
-    "name": "rbernasconi/hello-world",
-    "require": {
-        "monolog/monolog": "1.0.*"
-    }
+    "name": "rbernasconi/hello-world"
 }
